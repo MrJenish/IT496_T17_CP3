@@ -82,6 +82,9 @@ The hyperparameter tuning process involved a systematic exploration of various c
 - **Semifinal 2 Winner:** South Africa
 - **Final Winner:** India
 
+## Website
+  https://data-mining-kbgt.onrender.com/
+
 ## Contributors
 
 - [Arnish Satasiya](https://github.com/arnishsatasiya) - 202001031 : Data Preprocessing, API development in fastAPI & deployment in render
