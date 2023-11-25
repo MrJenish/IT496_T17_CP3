@@ -84,8 +84,8 @@ The hyperparameter tuning process involved a systematic exploration of various c
 
 ## Contributors
 
-- [Arnish Satasiya](https://github.com/arnishsatasiya) - 202001031 : Data Preprocessing
-- [Jay Kuvadiya](https://github.com/JaYkuvadiya17) - 202001042 : Data Preprocessing
+- [Arnish Satasiya](https://github.com/arnishsatasiya) - 202001031 : Data Preprocessing, API development in fastAPI & deployment in render
+- [Jay Kuvadiya](https://github.com/JaYkuvadiya17) - 202001042 : Data Preprocessing, Winner prediction
 - [Jenish Mangukiya](https://github.com/MrJenish) - 202001176 : Model Tranning, Hyperparameter Tunning and Winner prediction 
-- [Aastha Shetty](https://github.com/aasthashetty) - 202001260 : EDA Part
-- [Deep Kanani](https://github.com/202001454) - 202001454 : EDA Part
+- [Aastha Shetty](https://github.com/aasthashetty) - 202001260 : EDA Part, Data Preprocessing
+- [Deep Kanani](https://github.com/202001454) - 202001454 : EDA Part, API development in fastAPI & deployment in render
